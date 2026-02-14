@@ -1,0 +1,15 @@
+[submodule "external/opus-tools"]
+	path = external/opus-tools
+	url = git@github.com:xiph/opus-tools.git
+[submodule "external/opus"]
+	path = external/opus
+	url = git@github.com:xiph/opus.git
+[submodule "external/flac"]
+	path = external/flac
+	url = git@github.com:xiph/flac.git
+[submodule "external/ogg"]
+	path = external/ogg
+	url = git@github.com:xiph/ogg.git
+[submodule "external/libopusenc"]
+	path = external/libopusenc
+	url = git@github.com:xiph/libopusenc.git
